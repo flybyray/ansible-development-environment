@@ -241,6 +241,8 @@ git_repositories:
     dest: ansible-role-obsproject
   - repo: ssh://git@github.com/robertdebock/ansible-role-omsagent.git
     dest: ansible-role-omsagent
+  - repo: ssh://git@github.com/robertdebock/ansible-role-openbao.git
+    dest: ansible-role-openbao
   - repo: ssh://git@github.com/robertdebock/ansible-role-openssh.git
     dest: ansible-role-openssh
   - repo: ssh://git@github.com/robertdebock/ansible-role-openssl.git
@@ -257,6 +259,8 @@ git_repositories:
     dest: ansible-role-php_fpm
   - repo: ssh://git@github.com/robertdebock/ansible-role-phpmyadmin.git
     dest: ansible-role-phpmyadmin
+  - repo: ssh://git@github.com/robertdebock/ansible-role-prosody.git
+    dest: ansible-role-prosody
   - repo: ssh://git@github.com/robertdebock/ansible-role-podman.git
     dest: ansible-role-podman
   - repo: ssh://git@github.com/robertdebock/ansible-role-postfix.git
